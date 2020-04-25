@@ -134,4 +134,3 @@ def getini(iniin):             # 自定义规则
         return 'erro'
 
 
-#getini('https://raw.githubusercontent.com/lzdnico/SSRClash/master/config/default.ini')
